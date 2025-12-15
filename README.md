@@ -13,7 +13,7 @@ The goal is to help the business **increase revenue, improve customer retention,
 
 ## 🧰 Tools & Technologies
 
-* **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+* **Python** (Pandas, NumPy)
 * **PostgreSQL** (SQL queries & aggregations)
 * **Power BI** (Interactive dashboards & KPI tracking)
 * **Jupyter Notebook**
