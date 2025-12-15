@@ -148,7 +148,10 @@ Young adults contribute the majority of revenue among all age groups.
 
 ## 📊 Dashboard Preview
 
-*(Power BI dashboard showcases revenue trends, customer segmentation, shipping preferences, and subscription insights.)*
+## 📊 Power BI Dashboard
+
+![Power BI Dashboard](Dashboard Sales.png)
+
 
 ---
 
